@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MI_06_MCU_Rev_3_0.PcbDoc   03.02.2020  9:42:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MI_06_MCU_Rev_3_0-RoundHoles.TXT
+ASCII SlotHoles File : MI_06_MCU_Rev_3_0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             2         PTH        5.00mm (0.20inch)
+T2      1mm (39mil)                                               Round             8         PTH        25.73mm (1.01inch)
+T3      1.2mm (47mil)                                             Round             4         PTH        31.63mm (1.25inch)
+T4      1.75mm (69mil)                                            Slot              6         PTH        237.78mm (9.36inch)
+T5      2mm (79mil)                                               Round             2         PTH        5.50mm (0.22inch)
+T6      3.3mm (130mil)                                            Round             4         NPTH       112.00mm (4.41inch)
+T7      6.2mm (244mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              27
+
+Total Processing Time (hh:mm:ss) : 00:00:00

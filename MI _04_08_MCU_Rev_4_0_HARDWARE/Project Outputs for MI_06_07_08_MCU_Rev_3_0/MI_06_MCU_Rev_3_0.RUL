@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: \\192.168.0.241\обмен\КО\Красноперов Р.А\MI_06_MCU\MI_06_07_08_MCU_Rev_3_0\MI_06_MCU_Rev_3_0.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
