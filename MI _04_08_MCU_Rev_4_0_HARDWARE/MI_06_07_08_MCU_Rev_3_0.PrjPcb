@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QGMOGMYV
 
 [Document6]
-DocumentPath=MI_06_07_08_MCU_Rev_4_0.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DWAMPCTG
-
-[Document7]
 DocumentPath=MI_04_06_07_08_Rev4_0.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=MI_04_06_07_08_Rev4_0_DRILL.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
