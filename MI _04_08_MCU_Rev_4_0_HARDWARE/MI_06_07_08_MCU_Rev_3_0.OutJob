@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\WORK\AutoSignal\MI_06_MCU\MI_04-08\MI _04_08_MCU_Rev_4_0_HARDWARE\.PDF
+OutputFilePath2=C:\Users\Roman\Desktop\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\WORK\AutoSignal\MI_06_MCU\MI_04-08\MI _04_08_MCU_Rev_4_0_HARDWARE\
+OutputBasePath2=C:\Users\Roman\Desktop\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=MI_06_07_08_MCU_Rev_3_0.pdf
+OutputFileName2=MI_06_07_08_MCU_Rev_3_0_schematic.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\WORK\AutoSignal\MI_06_MCU\MI_04-08\MI _04_08_MCU_Rev_4_0_HARDWARE\.PDF
+RelativeOutputPath2=C:\Users\Roman\Desktop\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
