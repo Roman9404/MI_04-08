@@ -1,3 +1,0 @@
-Change Component Footprint: Designator=C5B Old Footprint=CAP8x10.5 New Footprint=CAP6.3x7.7
-Change Component Footprint: Designator=C6B Old Footprint=CAP10x10.5 New Footprint=CAP6.3x7.7
-Added Member To Class: ClassName=MI_06_07_08_MCU_Rev_3_0 Member=Component C5B Capacitor_Polar
